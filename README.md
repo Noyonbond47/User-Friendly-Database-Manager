@@ -2,7 +2,7 @@
 
 A simple, modern, and user-friendly desktop application for managing SQLite databases. Built with Python, Tkinter, and ttkbootstrap.
 
-![App Screenshot](assets/app-screenshot.png)
+![App Screenshot](asset/app-screenshot.png)
 
 ## Features
 
